@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jaimeiniesta@gmail.com"]
 
   spec.summary       = "Official Rocket Validator API client."
-  spec.homepage      = "https:/docs.rocketvalidator.com/api"
+  spec.homepage      = "https://docs.rocketvalidator.com/api"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
