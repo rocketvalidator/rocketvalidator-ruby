@@ -2,7 +2,7 @@ require_relative 'lib/rocketvalidator/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rocketvalidator"
-  spec.version       = Rocketvalidator::VERSION
+  spec.version       = RocketValidator::VERSION
   spec.authors       = ["Jaime Iniesta"]
   spec.email         = ["jaimeiniesta@gmail.com"]
 
