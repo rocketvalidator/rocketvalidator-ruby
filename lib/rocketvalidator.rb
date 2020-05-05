@@ -9,6 +9,8 @@ require "rocketvalidator/v0/common_a11y_issue"
 require "rocketvalidator/v0/common_html_issue"
 require "rocketvalidator/v0/a11y_issue"
 require "rocketvalidator/v0/html_issue"
+require "rocketvalidator/v0/muting"
+require "rocketvalidator/v0/schedule"
 
 module RocketValidator
 end
